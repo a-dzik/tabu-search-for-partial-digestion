@@ -4,7 +4,7 @@ The proposed algorithm is a **metaheuristic** solution for the **partial digesti
 
 Below you can see an example representation of a partial digestion experiment:
 
-![Example](images/pdp.png)
+<img src="images/pdp.png" width="500">
 
 so in this case: 
 - the multiset would be as follows: {4, 8, 8, 12, 16, 20}
@@ -31,7 +31,7 @@ All of the instance parameters can be adjusted using the **generator tab** of th
 - number of errors,
 - total molecule length.
   
-![Layout of the generator tab](images/generator.png)
+<img src="images/generator.png" width="500">
 
 The generated map and multiset are displayed in the form, and individual elements can be edited; keep in mind that the program will only accept a correct input instance before moving into the next step.
 
@@ -46,6 +46,6 @@ There are 4 user-defined parameters for the tabu implementation, which can be ad
 
 The parameters can be adjusted after already starting the computations as well. 
 
-![Layout of the metaheuristic tab](images/tabu.png)
+<img src="images/tabu.png" width="500">
 
 The form displays the objective function starting and best values. The best found solution (map) is also presented.
