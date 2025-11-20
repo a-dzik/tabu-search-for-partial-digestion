@@ -4,7 +4,7 @@ The proposed algorithm is a **metaheuristic** solution for the **partial digesti
 
 Below you can see an example representation of a partial digestion experiment:
 
-![Example](images/pdb.png)
+![Example](images/pdp.png)
 
 so in this case: 
 - the multiset would be as follows: {4, 8, 8, 12, 16, 20}
